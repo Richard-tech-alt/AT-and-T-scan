@@ -72,7 +72,7 @@ export default function AccountSecurityScan() {
   <img 
     src="/atlogo.png" 
     alt="Spectrum Logo" 
-    className="mx-auto w-36 h-20 sm:w-32 sm:h-32 md:w-56 md:h-32"
+    className="mx-auto w-36 h-20 sm:w-32 sm:h-32 md:w-60 md:h-28"
   />
   <h1 className="text-2xl sm:text-4xl font-bold text-gray-900 mb-4 sm:mb-6 mt-10">
     Scan Your Account
