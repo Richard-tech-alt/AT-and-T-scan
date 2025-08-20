@@ -73,7 +73,7 @@ const InternetScanLayout = () => {
 
   const handleSubmitComplaint = (e) => {
     e.preventDefault();
-     window.location.href = "tel:9876543212"; 
+      window.location.href = "tel:+18976543212";
     // setShowPopup(true);
   };
 
@@ -82,7 +82,7 @@ const InternetScanLayout = () => {
     // setShowPopup(false);`
     // navigate("/protect-your-device")
     // setShowPopup(false);
-         window.location.href = "tel:9876543212"; 
+      window.location.href = "tel:+18976543212";
   };
 
   const closePopup = () => {
